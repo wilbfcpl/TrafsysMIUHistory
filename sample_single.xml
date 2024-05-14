@@ -1,0 +1,15 @@
+<DataRecords ID="00:90:C2:E0:1D:DD" Name="Point Of Rocks" NoSensors="1">
+	<Record>
+		<TimeStamp>12/07/23 19:15:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C411250_1</PointID>
+		<SensorID>00000000E8407680</SensorID>
+		<SensorName>Counter2</SensorName>
+		<SensorType>6</SensorType>
+		<PointIndex>2</PointIndex>
+		<PointType>2</PointType>
+		<Value>34408</Value>
+		<Units>count</Units>
+		<Status>0</Status>
+	</Record>
+</DataRecords>

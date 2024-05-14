@@ -1,0 +1,145 @@
+<DataRecords ID="00:90:C2:C6:83:86" Name="Mischlers" NoSensors="4">
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C411250_1</PointID>
+		<SensorID>000000001C411250</SensorID>
+		<SensorName>Main Counts</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>1</PointIndex>
+		<PointType>1</PointType>
+		<Value>Okay</Value>
+		<Units>na</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C411250_2</PointID>
+		<SensorID>000000001C411250</SensorID>
+		<SensorName>Main Counts</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>2</PointIndex>
+		<PointType>2</PointType>
+		<Value>30871</Value>
+		<Units>count</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C411250_3</PointID>
+		<SensorID>000000001C411250</SensorID>
+		<SensorName>Main Counts</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>3</PointIndex>
+		<PointType>2</PointType>
+		<Value>30315</Value>
+		<Units>count</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C411258_1</PointID>
+		<SensorID>000000001C411258</SensorID>
+		<SensorName>Main Heart</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>1</PointIndex>
+		<PointType>1</PointType>
+		<Value>Okay</Value>
+		<Units>na</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C411258_2</PointID>
+		<SensorID>000000001C411258</SensorID>
+		<SensorName>Main Heart</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>2</PointIndex>
+		<PointType>2</PointType>
+		<Value>0</Value>
+		<Units>count</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C411258_3</PointID>
+		<SensorID>000000001C411258</SensorID>
+		<SensorName>Main Heart</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>3</PointIndex>
+		<PointType>2</PointType>
+		<Value>86172</Value>
+		<Units>count</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C709240_1</PointID>
+		<SensorID>000000001C709240</SensorID>
+		<SensorName>Service Counts</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>1</PointIndex>
+		<PointType>1</PointType>
+		<Value>Okay</Value>
+		<Units>na</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C709240_2</PointID>
+		<SensorID>000000001C709240</SensorID>
+		<SensorName>Service Counts</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>2</PointIndex>
+		<PointType>2</PointType>
+		<Value>19096</Value>
+		<Units>count</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C709240_3</PointID>
+		<SensorID>000000001C709240</SensorID>
+		<SensorName>Service Counts</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>3</PointIndex>
+		<PointType>2</PointType>
+		<Value>20962</Value>
+		<Units>count</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C709248_1</PointID>
+		<SensorID>000000001C709248</SensorID>
+		<SensorName>Service Heart</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>1</PointIndex>
+		<PointType>1</PointType>
+		<Value>Okay</Value>
+		<Units>na</Units>
+		<Status>0</Status>
+	</Record>
+	<Record>
+		<TimeStamp>02/12/06 05:45:00</TimeStamp>
+		<HIndex>1</HIndex>
+		<PointID>000000001C709248_2</PointID>
+		<SensorID>000000001C709248</SensorID>
+		<SensorName>Service Heart</SensorName>
+		<SensorType>18</SensorType>
+		<PointIndex>2</PointIndex>
+		<PointType>2</PointType>
+		<Value>0</Value>
+		<Units>count</Units>
+		<Status>0</Status>
+	</Record>
+</DataRecords>
